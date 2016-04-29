@@ -54,7 +54,8 @@ public class UserDAO implements IDAO {
 			 * .collect(Collectors.toList());
 			 */
 
-		} catch (Exception e) {
+		} 
+		catch (Exception e) {
 			e.printStackTrace();
 			System.out.println("Somehting went wrong here.....");
 		} finally {
