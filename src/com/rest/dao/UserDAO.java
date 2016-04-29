@@ -24,6 +24,10 @@ public class UserDAO implements IDAO {
 	Statement statement = null;
 	ResultSet resultSet = null;
 
+	
+	
+	
+	
 	@Override
 	public List<User> findAll() {
 
