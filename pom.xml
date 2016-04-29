@@ -10,8 +10,6 @@
     <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
-
-
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.1</version>
         <configuration>
